@@ -1,1 +1,1 @@
-Discord Bot in Python that rolls dice, mostly used to play/simulate dungeons and dragons.
+Discord Bot using a Python flask server that rolls dice, mostly used to play/simulate dungeons and dragons.
